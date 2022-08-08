@@ -1,0 +1,30 @@
+[
+  { "studentFirstName": "Akhil", "collegeName": "IIT", "location": "Mumbai" },
+  { "studentFirstName": "Akshay", "collegeName": "IIT", "location": "Mumbai" },
+  {
+    "studentFirstName": "Himanshu",
+    "collegeName": "IIT",
+    "location": "Mumbai"
+  },
+  {
+    "studentFirstName": "Aktar",
+    "collegeName": "IIT",
+    "location": "Mumbai"
+  },
+  { "studentFirstName": "mounika", "collegeName": "IIT", "location": "Mumbai" },
+  { "studentFirstName": "Rocky", "collegeName": "IIT", "location": "Mumbai" },
+  { "studentFirstName": "Akhil", "collegeName": "IIT", "location": "Mumbai" },
+  { "studentFirstName": "Akshay", "collegeName": "IIT", "location": "Mumbai" },
+  {
+    "studentFirstName": "Himanshu",
+    "collegeName": "IIT",
+    "location": "Mumbai"
+  },
+  {
+    "studentFirstName": "AKtar",
+    "collegeName": "IIT",
+    "location": "Mumbai"
+  },
+  { "studentFirstName": "mounika", "collegeName": "IIT", "location": "Mumbai" },
+  { "studentFirstName": "Rocky", "collegeName": "IIT", "location": "Mumbai" }
+]
